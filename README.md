@@ -1,6 +1,6 @@
 # SURF-2022
 Repository of programs written during my summer 2022 SURF internship at NIST Gaithersburg.
-Individual files are numbered. Files have been uploaded both individually and within a zip file. 
+Individual files are numbered. Files have been uploaded both individually and within a [zip file available here](https://drive.google.com/file/d/1-bseR4zTYHT2zh2KbWSopdii4zhiohde/view?usp=sharing). 
 
 NMF:
 1. [NMF.jl](https://github.com/marichard123/SURF-2022/blob/main/NMF.jl)- Located inside the first layer of the XRD folder. Reads in XRD data and outputs NMF constituent matrices. In the first few lines (lines 12-17), the user has the option to read in XRD data from either a pre-built matrix file, or from a collection of XRD .xy files from a directory. The user has the option of toggling whether the background is removed from XRD data before NMF is performed. Square root transform is off by default, option is present in presently commented-out code in line 269. NMF parameters toggleable in line 292. Weights/basis matrix written to directory in line 298.
