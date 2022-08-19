@@ -1,5 +1,5 @@
 # SURF-2022
-Repository of programs written during my summer 2022 SURF internship at NIST Gaithersburg
+Repository of programs written during my summer 2022 SURF internship at NIST Gaithersburg.
 Individual files are numbered. Files have been uploaded both individually and within a zip file. 
 
 NMF:
